@@ -1,4 +1,4 @@
-(Formatting of txt file subject to change)
+(Formatting of file subject to change)
 
 Author:   Matthew Molnar
 Date:     2/7/2023
