@@ -1,0 +1,21 @@
+(Formatting of txt file subject to change)
+
+Author:   Matthew Molnar
+Date:     2/7/2023
+File:     evSolverDoc.txt
+
+General:
+
+The EV solver tool is used to solve for an opposing Pokemon's EV of a specific stat involved. Each stat has it's
+own way of solving as explained below. 
+
+*Note that you must have information of at least one of the two Pokemon involved's stats.
+
+HP:
+
+ATK/SpATK:
+
+DEF/SpDEF:
+
+Speed:
+                                                                                                                l
